@@ -1,0 +1,15 @@
+C:\Users\1amma\projects\CSHARP\sorting\bin\Debug\net7.0-windows\Program.exe
+C:\Users\1amma\projects\CSHARP\sorting\bin\Debug\net7.0-windows\Program.deps.json
+C:\Users\1amma\projects\CSHARP\sorting\bin\Debug\net7.0-windows\Program.runtimeconfig.json
+C:\Users\1amma\projects\CSHARP\sorting\bin\Debug\net7.0-windows\Program.dll
+C:\Users\1amma\projects\CSHARP\sorting\bin\Debug\net7.0-windows\Program.pdb
+C:\Users\1amma\projects\CSHARP\sorting\obj\Debug\net7.0-windows\Program.csproj.AssemblyReference.cache
+C:\Users\1amma\projects\CSHARP\sorting\obj\Debug\net7.0-windows\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1amma\projects\CSHARP\sorting\obj\Debug\net7.0-windows\Program.AssemblyInfoInputs.cache
+C:\Users\1amma\projects\CSHARP\sorting\obj\Debug\net7.0-windows\Program.AssemblyInfo.cs
+C:\Users\1amma\projects\CSHARP\sorting\obj\Debug\net7.0-windows\Program.csproj.CoreCompileInputs.cache
+C:\Users\1amma\projects\CSHARP\sorting\obj\Debug\net7.0-windows\Program.dll
+C:\Users\1amma\projects\CSHARP\sorting\obj\Debug\net7.0-windows\refint\Program.dll
+C:\Users\1amma\projects\CSHARP\sorting\obj\Debug\net7.0-windows\Program.pdb
+C:\Users\1amma\projects\CSHARP\sorting\obj\Debug\net7.0-windows\Program.genruntimeconfig.cache
+C:\Users\1amma\projects\CSHARP\sorting\obj\Debug\net7.0-windows\ref\Program.dll
