@@ -1,5 +1,5 @@
 
-Visualises sorting using space efficent alogirithms for now e.g:
+Visualises sorting using space efficent algorithms for now e.g:
 
 -BubbleSort
 -SelectionSort
