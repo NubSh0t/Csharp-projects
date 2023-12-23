@@ -10,7 +10,7 @@ TO DO:
 
 -(Later)make a even more optimised version of 2048 ai in C# (for its comparitive fast speed while running) to run and see if it can reach the 8192 block.
 
-Few optimisations/approaches planned are listed:
+-Few optimisations/approaches planned are listed:
 
   > Using some algorithm like A* star to traverse the game graph rather than expectimax(it allows for a more open approach).
 
