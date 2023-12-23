@@ -8,7 +8,7 @@ TO DO:
 
 -Attact a paper using a decent sample size with both python and C# variants to test if the performance gets a boost with faster language .
 
--(Later)make a even more optimised version of 2048 ai in C# (for its comparitive fast speed while running) to run and see if it can reach the 8192 block.
+-(Later)make a even more optimised version of 2048 ai in C# (for its comparative fast speed while running) to run and see if it can reach the 8192 block.
 
 -Few optimisations/approaches planned are listed:
 
