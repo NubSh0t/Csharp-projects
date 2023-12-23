@@ -7,8 +7,8 @@ I have ported the python code in C# specifically to see if the algorithm was to 
 TO DO:
 -Attact a paper using a decent sample size with both python and C# variants to test if the performance gets a boost with faster language .
 -(Later)make a even more optimised version of 2048 ai in C# (for its comparitive fast speed while running) to run and see if it can reach the 8192 block. Few optimisations/approaches planned are listed:
-  > Using some algorithm like A* star to traverse the game graph rather than expectimax(it allows for a more open approach)
-  > Using NN or a adaptive model to score the postion of board rather than hard coding the values manually (which should comparatively work out towards a better performance)
-  > Implementing a 2 stage evaluation of board, where a predicted or approximate score is given to a position of the board, before being rigorously tested to give out a finalised hard score of the position. (this should allow for higher depths and saving time by pruning).
-  > Looking out of Transpositions while evaluating and using a hash table to store different positions. 
+  Using some algorithm like A* star to traverse the game graph rather than expectimax(it allows for a more open approach)
+   Using NN or a adaptive model to score the postion of board rather than hard coding the values manually (which should comparatively work out towards a better performance)
+   Implementing a 2 stage evaluation of board, where a predicted or approximate score is given to a position of the board, before being rigorously tested to give out a finalised hard score of the position. (this should allow for higher depths and saving time by pruning).
+   Looking out of Transpositions while evaluating and using a hash table to store different positions. 
   
